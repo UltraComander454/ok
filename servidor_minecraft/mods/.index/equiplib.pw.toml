@@ -1,0 +1,18 @@
+filename = 'equiplib-fabric-1.0.0+mc1.21.1.jar'
+name = 'EquipLib'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'equiplib-fabric-1.0.0+mc1.21.1.jar'
+
+[download]
+hash = '2101a7a5ff03f1607fb4e297b18200d3a8e5fcd7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6973921
+project-id = 1339715

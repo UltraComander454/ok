@@ -1,0 +1,21 @@
+filename = 'ImmersiveOres-1.21.1-1.1.7.jar'
+name = 'Immersive Ores'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ImmersiveOres-1.21.1-1.1.7-Fabric'
+
+[download]
+hash = 'adc25b92f972ad2d6f2ea2900e1010a686a12ceb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7556618
+project-id = 876772
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

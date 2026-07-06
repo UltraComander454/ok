@@ -1,0 +1,18 @@
+filename = 'emi-1.1.24+1.21.1+fabric.jar'
+name = 'EMI'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'emi-1.1.24+1.21.1+fabric'
+
+[download]
+hash = '6abcf2a10a629e401bff73a8fd1ad328a72b1482'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8081407
+project-id = 580555

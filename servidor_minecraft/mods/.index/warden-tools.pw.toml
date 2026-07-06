@@ -1,0 +1,18 @@
+filename = 'wardentools-fabric-1.21.1-4.1.1.jar'
+name = 'Warden Tools'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.1.1'
+
+[download]
+hash = '8619c079c0982acaeab388f97a84834f4128862d7af32d41e3602e5acdecd1f8a41cebcc6896db6df17db1a5f70d806d12c3484ecffc594bc9b0d1cbaf80b23d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KuQueJOG/versions/CdFlYtsP/wardentools-fabric-1.21.1-4.1.1.jar'
+
+[update.modrinth]
+mod-id = 'KuQueJOG'
+version = 'CdFlYtsP'

@@ -1,0 +1,37 @@
+filename = 'enderitemod-fabric-1.6.2-1.21.1.jar'
+name = 'Enderite Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.6.2'
+
+[download]
+hash = '714381f56fbcb280e6155b269f297ba1f70f4fcd96cf70072d1793add4e18ba78bf0a9e5faa1a9ce6187f10fc0bfa14c0bc0561a91442115bcbdd288fde21b02'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6lvRWqbA/versions/iClqzbin/enderitemod-fabric-1.6.2-1.21.1.jar'
+
+[update.modrinth]
+mod-id = '6lvRWqbA'
+version = 'iClqzbin'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '2M01OLQq'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'

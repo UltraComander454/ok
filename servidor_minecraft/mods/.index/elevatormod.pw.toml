@@ -1,0 +1,25 @@
+filename = 'elevatorid-fabric-1.21-1.11.1.jar'
+name = 'ElevatorMod'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21-1.11.1'
+
+[download]
+hash = '64c3032475996a5478dae85205a42708d305cde6de98a7aaa450e41e698cfff1155fea593568f4de8bf0c17e685c671fc587f8fed1ca709456e4972b96752f61'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hi2dSXTu/versions/IYcefR0v/elevatorid-fabric-1.21-1.11.1.jar'
+
+[update.modrinth]
+mod-id = 'hi2dSXTu'
+version = 'IYcefR0v'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ohNO6lps'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

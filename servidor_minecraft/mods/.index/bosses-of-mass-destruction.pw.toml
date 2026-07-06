@@ -1,0 +1,41 @@
+filename = 'BOMD-1.10.2-1.21.1.jar'
+name = 'Bosses of Mass Destruction'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'BOMD-1.10.2-1.21.1.jar'
+
+[download]
+hash = '98d20fba57e2ecbf309e15285449cb91eee19bda'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5809736
+project-id = 438365
+
+[[x-prismlauncher-dependencies]]
+addonId = '318449'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308769'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

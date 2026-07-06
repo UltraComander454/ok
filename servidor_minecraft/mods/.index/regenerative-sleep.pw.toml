@@ -1,0 +1,21 @@
+filename = 'regenerative-sleep-1.2+1.20.5.jar'
+name = 'Regenerative Sleep'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.5', '1.20.6', '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2+1.20.5'
+
+[download]
+hash = '72c3d32fae73678ef891b1b92667b56e68d6ded4d85594fa9e0aa907af69b8330748d2d1881ae33bb51f2b4b34d16c77c8c2f9e90361896c1e07f8b556d0d105'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JkvAVJIX/versions/DvpEyBfN/regenerative-sleep-1.2%2B1.20.5.jar'
+
+[update.modrinth]
+mod-id = 'JkvAVJIX'
+version = 'DvpEyBfN'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

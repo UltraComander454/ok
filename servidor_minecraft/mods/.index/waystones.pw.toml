@@ -1,0 +1,25 @@
+filename = 'waystones-fabric-1.21.1-21.1.34.jar'
+name = 'Waystones'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'waystones-fabric-1.21.1-21.1.34.jar'
+
+[download]
+hash = '90b20901cb3cf450f00fb44575b5c8d32e6cba79'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8163142
+project-id = 245755
+
+[[x-prismlauncher-dependencies]]
+addonId = '500525'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

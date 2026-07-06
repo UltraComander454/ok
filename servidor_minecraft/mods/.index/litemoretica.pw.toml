@@ -1,0 +1,18 @@
+filename = 'litemoretica-1.2.5+mc1.21.1.jar'
+name = 'Litemoretica'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.5+mc1.21.1'
+
+[download]
+hash = '32d946eeed64deb79db0c896a4c270bc87c3d6d1e100622088b36569118ef23c35b75282c09e5e7a6a94de49fc67927752785f92e72ec214e5a74f471d0af0c0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OYR5DMCo/versions/nhi2RkZ9/litemoretica-1.2.5%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'OYR5DMCo'
+version = 'nhi2RkZ9'

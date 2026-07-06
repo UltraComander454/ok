@@ -1,0 +1,21 @@
+filename = 'cyclopscore-1.21.1-fabric-1.29.1.jar'
+name = 'Cyclops Core'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-1.29.1'
+
+[download]
+hash = '182f439ae549f73077852c7bf6be074f93afda9bf1043c765ad608dba0aaabdaf5af0990dbea7121aa55317ca6b2f811bb61d789ae48404127fed1ca47c78999'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Z9DM0LJ4/versions/S12CANTY/cyclopscore-1.21.1-fabric-1.29.1.jar'
+
+[update.modrinth]
+mod-id = 'Z9DM0LJ4'
+version = 'S12CANTY'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ohNO6lps'
+type = 'OPTIONAL'

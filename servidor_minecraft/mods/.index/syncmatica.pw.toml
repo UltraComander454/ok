@@ -1,0 +1,18 @@
+filename = 'syncmatica-fabric-1.21-0.3.14-sakura.5.jar'
+name = 'Syncmatica'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-0.3.14'
+
+[download]
+hash = 'b51ea30aa1f6858703866c02b81fa0ba6007f7ced8bb08af42d990072768c5538d8454c2f0ba87afd6a40966bc9f5af17475742ff8e820eeb02950a527533648'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bfneejKo/versions/5tVZej2i/syncmatica-fabric-1.21-0.3.14-sakura.5.jar'
+
+[update.modrinth]
+mod-id = 'bfneejKo'
+version = '5tVZej2i'

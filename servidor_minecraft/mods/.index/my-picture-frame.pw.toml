@@ -1,0 +1,18 @@
+filename = 'mypictureframe-fabric-1.21.1-1.0.0.jar'
+name = 'My Picture Frame'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mypictureframe-fabric-1.21.1-1.0.0.jar'
+
+[download]
+hash = '694209e70771f3b2a93edd9c13096386298f6903'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8287378
+project-id = 1582023

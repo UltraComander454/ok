@@ -1,0 +1,21 @@
+filename = 'cinematic_respawn-1.21.1-fabric-1.0.1.jar'
+name = 'Cinematic Respawn'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-fabric-1.0.1'
+
+[download]
+hash = '2ad58a3a27c9983ab7f095be4413703396fba81f13b2f2eb4bfe8f4490ed4129787242797f2ed6817fea8db5d8c56f99572c35695ae8ceb1a33442e52d1e42d7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CFJWaa89/versions/4KXdCkvj/cinematic_respawn-1.21.1-fabric-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'CFJWaa89'
+version = '4KXdCkvj'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
